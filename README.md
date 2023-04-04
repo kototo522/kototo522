@@ -1,7 +1,7 @@
 # I'm Kotoha Yoshimoto
-🏫 I am college　student which learning Information engineering．
+🏫 I am college student which learning Information engineering．
 
-💻 I an learning Kotlin, React. Design.
+💻 I an learning Kotlin, React, Design.
 
 <img src="https://img.shields.io/badge/-Kotlin-blue.svg?logo=kotlin&style=for-the-badge"> <img src="https://img.shields.io/badge/-Typescript-yellow.svg?logo=typescript&style=for-the-badge"> <img src="https://img.shields.io/badge/-React-black.svg?logo=react&style=for-the-badge"> 
 
